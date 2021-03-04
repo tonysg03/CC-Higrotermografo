@@ -1,2 +1,3 @@
 # CC-Higrotermografo
-Código para el control de calidad de los datos de temperatura y humedad relativa del instrumento higrotermógrafo
+
+Código creado para el control de calidad básico de los datos de temperatura y humedad relativa del instrumento: higrotermógrafo. Código creado por Anthony Segura García del Departamento de Red Meteorológica y Procesamiento de Datos del Instituto Meteorológico Nacional.
