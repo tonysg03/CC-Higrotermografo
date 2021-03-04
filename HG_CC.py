@@ -3,6 +3,8 @@
 Created on Thu Jan 21 15:03:25 2021
 
 @author: Anthony Segura García
+@contact: asegura@imn.ac.cr
+
 Departamento de Red Meteorológica y Procesamiento de Datos
 Instituto Meteorológico Nacional
 """
